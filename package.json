@@ -41,7 +41,8 @@
     "vinyl-source-stream": "~0.1.1"
   },
   "dependencies": {
-    "backbone": "~1.1.2",
-    "jquery": "~2.1.0"
+    "marionette": "marionettejs/backbone.marionette#78057aaa898aabb2751f60723ee1bcdf9f4f7f34",
+    "backbone": "1.1.2",
+    "jquery": "2.1.1"
   }
 }
